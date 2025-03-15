@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
 .imagem{
     height: 800px;
 }
@@ -5,4 +7,5 @@
 .paragrafo{
     font-size: 199px;
     color: red;
+    font-family: "Playwrite HU", cursive;
 }
